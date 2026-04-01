@@ -1,0 +1,48 @@
+# Temporal Coupling Framework
+
+## Motivation
+
+In many reactive systems, energy is applied continuously or periodically without considering the internal time dynamics of the medium.
+
+This often leads to:
+
+- Phase drift
+- Impedance instability
+- Energy dissipation into non-productive states
+
+## Concept
+
+SRC introduces the idea of **temporal coupling optimization**:
+
+Energy transfer efficiency depends not only on magnitude, but on:
+
+- when energy is applied
+- how phase-aligned the system is
+- how feedback shapes the response
+
+## Key Parameters
+
+### Δt — Temporal Alignment
+Timing of excitation relative to system response
+
+### Δφ — Phase Alignment
+Phase difference between voltage and current
+
+### Feedback (RLC)
+Passive frequency-dependent phase shaping
+
+## Principle
+
+Maximum coupling occurs when:
+
+- excitation aligns with system relaxation dynamics
+- phase variance is minimized
+- energy is delivered during receptive states
+
+## Interpretation
+
+This is not a new physical mechanism.
+
+It is a **control and coupling problem**:
+
+> Energy is not used more — it is used more effectively.
