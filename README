@@ -1,0 +1,43 @@
+# Structured Resonant Coupling (SRC)
+## Temporal Coupling Framework for Reactive Systems
+
+This repository introduces a testable framework for improving energy coupling efficiency in reactive systems through temporal excitation structuring and passive phase control.
+
+The approach does not introduce new physical principles. It operates within classical electromagnetic and electrochemical theory.
+
+## Core Idea
+
+Instead of optimizing only frequency and amplitude, SRC treats the following as primary variables:
+
+- Temporal structure of excitation (Δt)
+- Phase relationship between voltage and current (Δφ)
+- Passive feedback shaping (RLC-based)
+
+The hypothesis is that improved temporal alignment between excitation and system dynamics can reduce losses and stabilize operation.
+
+## Scope
+
+This framework is intended for:
+
+- Electrochemical systems (e.g. electrolysis)
+- Dielectric and relaxation-dominated media
+- Plasma and transient field systems
+
+## What this is NOT
+
+- Not a new energy source
+- Not a violation of thermodynamics
+- Not a claim of energy amplification
+
+## Goal
+
+To test whether time-structured excitation improves:
+
+- Phase stability
+- Impedance consistency
+- Effective energy coupling
+
+## Status
+
+Conceptual + experimental framework  
+Open for validation, critique and replication
