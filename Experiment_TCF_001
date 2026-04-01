@@ -1,0 +1,39 @@
+# Experimental Approach
+
+## Setup
+
+Two identical systems:
+
+- System A: Conventional excitation (DC or simple pulsed)
+- System B: SRC-based excitation (structured waveform + optional RLC)
+
+## Conditions
+
+- identical geometry
+- identical medium
+- identical temperature
+- identical input power
+
+## Measurements
+
+- Voltage (U)
+- Current (I)
+- Power (P)
+- Gas production rate (ml/min)
+- Temperature (T)
+
+Optional:
+- Phase difference (Δφ)
+- Impedance
+
+## Goal
+
+Identify measurable differences in:
+
+- efficiency
+- stability
+- loss behavior
+
+## Important Constraint
+
+The excitation method must be the only variable.
