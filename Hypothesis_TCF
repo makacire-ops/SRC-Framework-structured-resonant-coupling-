@@ -1,0 +1,31 @@
+# Hypothesis
+
+## Core Hypothesis
+
+Temporally structured excitation combined with passive phase-selective feedback can improve coupling efficiency in reactive systems compared to stationary excitation.
+
+## Expected Effects
+
+- Reduced phase variance
+- Increased impedance stability
+- Improved consistency of power transfer
+
+## Application Hypothesis (Electrolysis)
+
+In electrochemical systems, SRC may:
+
+- reduce bubble-induced losses
+- improve electrode surface utilization
+- reduce effective overpotential
+- stabilize operation under dynamic conditions
+
+## Null Hypothesis
+
+No measurable difference between structured and conventional excitation.
+
+## Evaluation Criteria
+
+- Gas production vs input power
+- Phase stability over time
+- Impedance behavior
+- Thermal behavior
